@@ -9,6 +9,7 @@
     width: 100vw;
     height: 100vh;
     background-image: radial-gradient(circle, rgba(87, 3, 130, 0.9), rgba(9, 2, 109, 0.9));
+    overflow: hidden;
   }
 
 
@@ -45,7 +46,7 @@
    /* height: 32%; */
    width: 32%;
    position: relative;
-   margin-bottom: 20px;
+   margin-bottom: 7px;
    border-radius: 10px;
    overflow: hidden;
     box-shadow: 0 0 10px #333;
