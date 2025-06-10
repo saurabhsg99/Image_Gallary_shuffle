@@ -6,6 +6,8 @@ This is the image gallary of my Aimer's team member. It's a significant leap for
 
 * **Original HTML/CSS Version:** <https://image-gallery-aimers.netlify.app/>
 
+* **Circle Version:** 👉 <https://image-gallary-circle.netlify.app/>
+  
 * **New React & Vite Version:** 👉 <https://saurabhsg99.github.io/Image_Gallary_shuffle/>
 
 ## ✨ Captivating Features
